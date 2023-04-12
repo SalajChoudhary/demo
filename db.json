@@ -1,3 +1,3 @@
-"doctor": [
-{"id": 1, "firstName": "Qing", "lastName": "Jin", "speciality": "surgeon"}
-]
+{
+	"doctor": {"id": 1, "firstName": "Qing", "lastName": "Jin", "speciality": "surgeon"}
+}
